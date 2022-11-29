@@ -19,4 +19,4 @@ Meu nome é Gabriel, tenho 24 anos, sou formado em direito e tenho 2 anos de exp
 
 # Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](linkedin.com/in/gabrielsilvajorge)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](http://linkedin.com/in/gabrielsilvajorge)
