@@ -22,7 +22,7 @@
 <div><br></div>
 
 <div align="center">  
-<a href="https://www.instagram.com/gabrielsilvaj" target="_blank"><img width=100% src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0093E9,100:0093E9&height=70&section=header&text=Let's+connect+on+LinkedIn?!&fontSize=35&fontColor=c0c1c0&animation=fadeIn&fontAlignY=50&fontAlign=50"</a>
+<a href="https://www.linkedin.com/in/gabrielsilvajorge/" target="_blank"><img width=100% src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0093E9,100:0093E9&height=70&section=header&text=Let's+connect+on+LinkedIn?!&fontSize=35&fontColor=c0c1c0&animation=fadeIn&fontAlignY=50&fontAlign=50"</a>
 </div>
   
 
