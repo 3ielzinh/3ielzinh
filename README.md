@@ -5,49 +5,44 @@
 <div><br></div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=3ielzinh&show_icons=true&count_private=true&hide_border=true&title_color=0093E9&icon_color=0093E9&text_color=0093E9&bg_color=0d1117" alt="Gabriel Silva jorge github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ielzinh&layout=compact&hide_border=true&title_color=0093E9&text_color=0093E9&bg_color=0d1117" />
+  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api?username=3ielzinh&show_icons=true&count_private=true&hide_border=true&title_color=0093E9&icon_color=0093E9&text_color=0093E9&bg_color=fffefe" alt="Gabriel Silva jorge github stats" />
+  <img width="30%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=3ielzinh&ring=0093E9&fire=0093E9&currStreakNum=0093E9&sideNums=0093E9&currStreakLabel=0093E9&hide_border=true&sideLabels=0093E9"/>
+  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ielzinh&layout=compact&hide_border=true&title_color=0093E9&text_color=0093E9&bg_color=fffefe" />
 </div>
   
 <div><br></div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=3ielzinh&custom_title=3ielzinh's%20Contribution%20Graph&hide_border=true&bg_color=0d1117&title_color=0093E9&line=0093E9&point=0093E9&area_color=0093E9&bg_color=0093E9&area=true&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div><br></div>
-  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=3ielzinh&theme=algolia" />
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=3ielzinh&custom_title=3ielzinh's%20Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=fffefe&point=00a1ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <div><br></div>
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/gabrielsilvajorge/" target="_blank"><img width=100% src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0093E9,100:0093E9&height=70&section=header&text=Let's+connect+on+LinkedIn?!&fontSize=35&fontColor=c0c1c0&animation=fadeIn&fontAlignY=50&fontAlign=50"</a>
+<a href="https://www.linkedin.com/in/gabrielsilvajorge/" target="_blank"><img width=100% src="https://capsule-render.vercel.app/api?type=cylinder&color=0093E9&height=70&section=header&text=Let's+connect+on+LinkedIn?!&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=50&fontAlign=50"</a>
 </div>
   
 
 ### Main skills:
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=00a1ff&bg_color=fffefe)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=fffefe)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=fffefe)&nbsp;
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=fffefe)&nbsp; 
 
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=fffefe)&nbsp;
+<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=fffefe)&nbsp; -->
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=fffefe)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=fffefe)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=fffefe)&nbsp;
 
 ### Other Knowledge:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=fffefe)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=fffefe)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=fffefe)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=fffefe)&nbsp;
   
 ### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=fffefe)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=fffefe)&nbsp;
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -56,3 +51,5 @@
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0093E9,100:0093E9&height=170&section=footer&text=That's+All+Folks!&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=65&fontAlign=23"/>
+  
+
