@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0093E9,100:0093E9&height=170&section=header&text=Be+Welcome!&fontSize=45&fontColor=c0c1c0&animation=fadeIn&fontAlignY=35&fontAlign=80"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0093E9&height=170&section=header&text=Be+Welcome!&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&fontAlign=80"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0093E9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Silva+Jorge;I'm+25+years+old;I+from+Brasil,+Brasília-DF;I+have+a+degree+in+Law;I'm+currently+studying+programming)](https://git.io/typing-svg)
 
