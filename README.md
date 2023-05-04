@@ -14,12 +14,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=3ielzinh&custom_title=3ielzinh's%20Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=0093E900&point=00a1ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-<div><br></div>
-
-<div align="center">  
-<a href="https://www.linkedin.com/in/gabrielsilvajorge/" target="_blank"><img width=100% src="https://capsule-render.vercel.app/api?type=cylinder&color=5cbaf1&height=70&section=header&text=Let's+connect+on+LinkedIn?!&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=50&fontAlign=50"</a>
-</div>
-  
+<div><br></div>  
 
 ### Main skills:
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=00a1ff&bg_color=fffefe)&nbsp;
@@ -46,10 +41,15 @@
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{3ielzinh}/count.svg" /></p> 
+<p align="center"><img align="center" src="![Profile views](https://gpvc.arturio.dev/3ielzinh)" /></p> 
 <br></div>
+
+![Profile views](https://gpvc.arturio.dev/[3ielzinh])
+
   
+<div align="center">  
+<a href="https://www.linkedin.com/in/gabrielsilvajorge/" target="_blank"><img width=100% src="https://capsule-render.vercel.app/api?type=cylinder&color=0093E900&height=70&section=header&text=Let's+connect+on+LinkedIn?!&fontSize=35&fontColor=5cbaf1&animation=fadeIn&fontAlignY=50&fontAlign=50"</a>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0093E9,100:0093E9&height=170&section=footer&text=That's+All+Folks!&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=65&fontAlign=23"/>
   
-
