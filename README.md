@@ -4,13 +4,6 @@
 #
 <div><br></div>
 
-<div align="center">  
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api?username=3ielzinh&show_icons=true&count_private=true&hide_border=true&title_color=0093E9&icon_color=0093E9&text_color=0093E9&bg_color=0093E900" alt="Gabriel Silva jorge github stats" />
-  <img width="30%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=3ielzinh&ring=0093E9&fire=0093E9&currStreakNum=0093E9&sideNums=0093E9&currStreakLabel=0093E9&hide_border=true&sideLabels=0093E901&background=0093E900"/>
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ielzinh&layout=compact&hide_border=true&title_color=0093E9&text_color=0093E9&bg_color=0093E900" />
-</div>
-
-<div><br></div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=3ielzinh&custom_title=3ielzinh's%20Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=0093E900&point=00a1ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
