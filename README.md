@@ -4,11 +4,6 @@
 #
 <div><br></div>
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=3ielzinh&custom_title=3ielzinh's%20Contribution%20Graph&hide_border=true&theme=react-dark&bg_color=0093E900&point=00a1ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-<div><br></div>  
-
 ### Skills
 
 <p align="left">
